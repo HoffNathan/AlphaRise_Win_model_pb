@@ -1,6 +1,6 @@
-# AlphaRise - Modelo HMM aplicado ao WIN1!
+# AlphaRise - Modelo HMM aplicado ao WIN
 
-Este repositório contém um modelo estatístico de aprendizado de máquina baseado em *Modelos Ocultos de Markov (HMM), treinado para identificar **regimes de mercado* no *índice futuro brasileiro WIN1!*.
+Este repositório contém um modelo estatístico de aprendizado de máquina baseado em *Modelos Ocultos de Markov (HMM), treinado para identificar **regimes de mercado* no *índice futuro brasileiro WIN*.
 
 ---
 
