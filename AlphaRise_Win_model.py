@@ -9,7 +9,7 @@ import numpy as np
 import plotly.graph_objects as go
 
 TICKER1 = "WIN1!"
-TAXA = 0.01
+TAXA = 0.03
 
 # === Carregar base de dados diretamente do GitHub ===
 url_csv = "https://raw.githubusercontent.com/HoffNathan/AlphaRise_Win_model_pb/main/dados_win1.csv"
